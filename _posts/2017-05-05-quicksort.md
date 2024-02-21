@@ -8,7 +8,7 @@ seo:
   date_modified: 2020-03-11 23:02:29 +0800
 ---
 
-本节所有图片均选自 http://algs4.cs.princeton.edu/23quicksort/
+本节所有图片均选自 https://algs4.cs.princeton.edu/23quicksort/
 
 
 ## 快速排序
